@@ -1,0 +1,3 @@
+[submodule "esp3j0-blog/themes/paper"]
+	path = esp3j0-blog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
