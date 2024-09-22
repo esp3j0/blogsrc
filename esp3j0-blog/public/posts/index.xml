@@ -5,6 +5,14 @@
         <description>All Posts | esp3j0</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>esp3j0@outlook.com (esp3j0)</managingEditor>
             <webMaster>esp3j0@outlook.com (esp3j0)</webMaster><lastBuildDate>Sun, 22 Sep 2024 09:45:47 &#43;0000</lastBuildDate><atom:link href="https://esp3j0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>对于神经网络中张量中各种维度的理解</title>
+    <link>https://esp3j0.github.io/posts/tensor/</link>
+    <pubDate>Sun, 22 Sep 2024 09:45:47 &#43;0000</pubDate>
+    <author>esp3j0</author>
+    <guid>https://esp3j0.github.io/posts/tensor/</guid>
+    <description><![CDATA[引言 咱们高中，大学上线代课程的时候都会接触到一个词&ndash;向量&ndash;，向量这个东西有个被称为维度的属性。 平面中的一个点，可以用]]></description>
+</item>
+<item>
     <title>WindowsRegister</title>
     <link>https://esp3j0.github.io/posts/windowsregister/</link>
     <pubDate>Tue, 09 Apr 2024 14:18:12 &#43;0800</pubDate>
